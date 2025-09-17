@@ -8,3 +8,5 @@ export default defineConfig({
     port: 3000
   }
 })
+
+npm install --save-dev @vitejs/plugin-react
